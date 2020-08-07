@@ -21,6 +21,7 @@ No  [ ] <br />
 -Omics repositories (e.g., GenBank, UniProt) <br />
 -Knowledge bases (e.g., Reactome, DrugBank) <br />
 -Electronic medical record (EMR) data <br />
+-Other: [Please add any other resources not listed that you use as part of conducting research] <br />
 
 4. Please think back to a recent time when you were conducting research, what are some examples of the biomedical questions that you explored? <br />
 [Enter response here] <br />
