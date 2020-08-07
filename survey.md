@@ -29,7 +29,7 @@ No  [ ] <br />
 5. Based on the description of Translator provided at the beginning of this survey, please describe any concerns you would have about using Translator. <br />
 [Enter response here] <br />
 
-6. Would you be willing to participate in an interview at a later date (to be determined) toward gleaning further insight on the topics encompassed in this survey? <br />
+6. Would you be willing to participate in discussion at a later date (to be determined) toward gleaning further insight on the topics encompassed in this survey? <br />
 Yes [ ] <br />
 No  [ ] <br />
 
