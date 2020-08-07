@@ -23,7 +23,7 @@ No  [ ] <br />
 -Electronic medical record (EMR) data <br />
 -Other: [Please add any other resources not listed that you use as part of conducting research] <br />
 
-4. Please think back to a recent time when you were conducting research, what are some examples of the biomedical questions that you explored? <br />
+4. Please think back to a recent time when you were conducting research, what are some examples of the biomedical questions you explored? <br />
 [Enter response here] <br />
 
 5. Based on the description of Translator provided at the beginning of this survey, please describe any concerns you would have about using Translator. <br />
